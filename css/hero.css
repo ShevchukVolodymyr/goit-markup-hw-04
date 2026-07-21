@@ -1,0 +1,42 @@
+.hero {
+    background-color: #2E2F42;
+    color: white;
+    text-align: center;
+    padding-top: 188px;
+    padding-bottom: 188px;
+}
+.hero-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: white;
+    max-width: 496px;
+    margin: 0 auto 48px;
+
+}
+.hero-btn {
+    padding: 16px 32px;
+    color: white;
+    background-color: #4D5AE5;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    border-radius: 4px;
+}
+.btn-wrapper button:hover,
+.btn-wrapper button:focus{
+   background-color: #404bbf;  
+}
+.hero-break {
+    display: block;
+
+}
+
+
+
+
+
